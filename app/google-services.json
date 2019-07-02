@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "100606554211",
+    "firebase_url": "https://kacchat-17291.firebaseio.com",
+    "project_id": "kacchat-17291",
+    "storage_bucket": "kacchat-17291.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100606554211:android:61390dac6615874c",
+        "android_client_info": {
+          "package_name": "com.example.kacchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100606554211-2ee5goi9mgnr5ualtetk270um3v1es7v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kacchat",
+            "certificate_hash": "30b23b9e98ce8632c5107a35b2e98de17c9ccd33"
+          }
+        },
+        {
+          "client_id": "100606554211-32gof1p3adl6roifedac8lni5la79kvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWoC6RS-2MKHmGIVM2TMwXD7ZVvS55xG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100606554211-32gof1p3adl6roifedac8lni5la79kvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
