@@ -62,6 +62,7 @@ public class LoginActivity extends AppCompatActivity {
             }
         });
     }
+
     private void AllowUserToLogin()
     {
         String email=UserEmail.getText().toString();

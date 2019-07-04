@@ -83,7 +83,15 @@ myTabLayout.setupWithViewPager(myViewPager);
 
     }
 
-
+    @Override
+    protected void onStop() {
+        FirebaseUser currentUser=mAuth.getCurrentUser();
+        super.onStop();
+        if(currentUser!=null)
+        {
+            updateUserStatus("offline");
+        }
+    }
 
     @Override
     protected void onDestroy() {
